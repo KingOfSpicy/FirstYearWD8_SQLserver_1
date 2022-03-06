@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "WDCheWei-task11 edit2", "WDCheWei-task11 edit2\WDCheWei-task11 edit2.ssmssqlproj", "{1850944B-5F4E-4312-8930-7A5A323E8FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1850944B-5F4E-4312-8930-7A5A323E8FF8}.Default|Default.ActiveCfg = Default
+		{C4E624F5-3F79-49F0-B156-5B8B1808AFC2}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {618943FC-2A57-432C-A202-DB014D6C7272}
+	EndGlobalSection
+EndGlobal
